@@ -1,23 +1,19 @@
 class MailBox
+  def initialize(letters, packages)
+  end
 
-	@@mailboxes = 0
-	@@total_items = 0
+  def add_letter
+  end
 
-	def initialize letters, packages
-	end
+  def add_package
+  end
 
-	def add_letter
-	end
+  def clear
+  end
 
-	def add_package
-	end
+  def self.mailboxes
+  end
 
-	def clear
-	end
-
-	def self.mailboxes
-	end
-
-	def self.total_items
-	end
+  def self.total_items
+  end
 end
