@@ -1,4 +1,4 @@
-require_relative '../Tree.rb'
+require_relative '../src/tree.rb'
 
 describe Tree do
   before(:context) do

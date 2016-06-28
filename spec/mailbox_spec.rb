@@ -1,4 +1,4 @@
-require_relative '../MailBox.rb'
+require_relative '../src/mailbox.rb'
 
 describe MailBox do
   before(:context) do

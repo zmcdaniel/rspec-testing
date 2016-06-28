@@ -10,10 +10,4 @@ class MailBox
 
   def clear
   end
-
-  def self.mailboxes
-  end
-
-  def self.total_items
-  end
 end
