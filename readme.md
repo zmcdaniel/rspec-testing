@@ -7,7 +7,7 @@
   * Run `rspec` to run tests
   * Run `rubocop` to lint code
 
-Take a look at the starter code. You'll see blueprints for two different classes within the `src` folder, as well as tests in a `spec` folder for the implementation of these classes.
+Take a look at the starter code. You'll see blueprints for two different classes within the `lib` folder, as well as tests in a `spec` folder for the implementation of these classes.
 
 ##Requirements
 
