@@ -19,3 +19,9 @@ Implement the classes so that the tests succeed, using TDD principles.
 4. Refactor code if needed
 
 Run `rspec` in the starter-code folder to run the tests. Take a look at the specs if you get stuck.
+
+---
+
+## Licensing
+1. All content is licensed under a CC-BY-NC-SA 4.0 license.
+2. All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
